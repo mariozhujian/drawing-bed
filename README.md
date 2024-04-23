@@ -1,2 +1,2 @@
-# drawing_bed
+# drawing-bed
 我的图床
